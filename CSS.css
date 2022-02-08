@@ -1,0 +1,35 @@
+.navbar-logo {
+color: brown;
+font-size: xx-large;
+}
+.nav-item {color: brown;}
+
+  background-color: burlywood;
+  font-family: 'Arial', Courier, monospace;
+  font-size:18px;
+  font:normal
+
+  line;height: 1.5em;
+}
+.wrapper {background-color: rgb(165, 133, 85);
+}
+h1{ color: rgb(122, 33, 33)
+  ;}
+  p{color: black
+    ;
+  font-family: Arial, Helvetica, Arial, Helvetica, sans-serif;
+font-size: 18px;
+}
+    
+ .wrapper { width: 800px;}
+
+ .header {
+   height: 100px;
+   width: 800px
+
+   padding; padding-top: 20px;
+   margin-top: 30px;}
+
+   .nav {font-weight:lighter;
+    font-size: 20px; 
+  }
